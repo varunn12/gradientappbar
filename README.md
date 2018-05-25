@@ -1,6 +1,6 @@
 # gradientappbar
 
-A new Flutter project.
+A new Flutter project. Adding Linear gradient to app bar in flutter
 
 ## Getting Started
 
